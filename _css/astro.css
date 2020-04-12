@@ -1,0 +1,82 @@
+body{
+	background:url(/home/edie/Script/HTML5/site-v1.5/_imagens/lune.jpg);
+	background-repeat: no-repeat;
+	background-color: #969391;
+	background-attachment: fixed;
+	background-size: 110%;
+}
+.back-image{
+	background-image:url(/home/edie/Script/HTML5/site-v1.5/_imagens/);
+	filter: blur(5px);
+	-webkit-filter: blur(3px);
+	height: 90%;  
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.welcome{
+ 	background-color: rgb(0,0,0);
+ 	background-color: rgba(0,0,0, 0.6);
+ 	color: white;
+ 	font-weight: bold;
+  	border: 3px solid #f1f1f1;
+ 	position: absolute;
+  	top: 50%;
+  	left: 50%;
+ 	transform: translate(-50%, -50%);
+  	z-index: 2;
+  	width: 80%;
+  	padding: 20px;
+  	text-align: center;
+  	font-size: 18pt;
+}
+div#text{
+	background-color:rgba(0,0,0, 0.6);
+	text-align: center;
+	margin:0 auto;
+	padding: 50px;
+	width: 1000px;
+	box-shadow:30px 30px 40px black;
+	border: 3px solid #f1f1f1;
+	font-size: 20pt;
+	color: white;
+}
+div#menu{
+	background-color: rgba(0,0,0, 0.6);
+	line-height: 110%;
+	
+}
+nav#menu{
+	display: block;
+}
+nav#menu ul{
+	list-style: none;
+	text-transform: uppercase;
+	position: relative;
+}
+nav#menu li{
+	color: #ffffff;
+	display:inline-block;
+	background-color: rgba(10,10,10, 0.4);
+	padding: 10px;
+	margin:2px;
+	transition:background-color 1s; 
+	font-size: 20pt;
+	font-weight: bold;
+	box-shadow:5px 5px 4px black;
+	border: 3px solid #f1f1f1;
+}
+ nav#menu li:hover{
+ 	background-color: rgba(179,179,179, 0.7);
+ }
+nav#menu h5{
+	display: none;
+}
+nav#menu a{
+ 	color: #f1f1f1;	
+ 	text-decoration:none;
+}
+nav#menu a:hover{
+	font-size: 20.5pt;
+}

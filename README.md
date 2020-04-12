@@ -1,2 +1,2 @@
 # Hi-Science
-just me learning html and css
+just me learning html, css and Js
