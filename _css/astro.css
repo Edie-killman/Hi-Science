@@ -1,13 +1,13 @@
 /*configurations of background*/
 body{
-	background:url(/home/edie_killman/Script/html/Hi-Science/_imagens/lunet.jpg);
+	background:url(../_imagens/lunet.jpg);
 	background-repeat:no-repeat;
 	background-color:#969391;
 	background-attachment:fixed;
 	background-size:110%;
 }
 .back-image{
-	background-image:url(~/Script/html/site-v1.5/Hi-Science/_imagens/);
+	background-image:url(../_imagens/);
 	filter: blur(5px);
 	-webkit-filter: blur(3px);
 	height: 90%;  
