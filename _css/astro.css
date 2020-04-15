@@ -1,9 +1,10 @@
+/*configurations of background*/
 body{
-	background:url(/home/edie_killman/Script/html/site-v1.5/Hi-Science/_imagens/lune.jpg);
+	background:url(/home/edie_killman/Script/html/Hi-Science/_imagens/lunet.jpg);
 	background-repeat:no-repeat;
 	background-color:#969391;
 	background-attachment:fixed;
-	background-size: 110%;
+	background-size:110%;
 }
 .back-image{
 	background-image:url(~/Script/html/site-v1.5/Hi-Science/_imagens/);
@@ -14,6 +15,7 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+	z-index: 4;
 }
 .welcome{
  	background-color: rgb(0,0,0);
