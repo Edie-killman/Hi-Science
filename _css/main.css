@@ -82,10 +82,11 @@ nav#menu h5{
 	display: none;
 }
 nav#menu a{
- color: white;	
- text-decoration:none;
+ 	color: white;	
+ 	text-decoration:none;
+ 	font-family:monospace;
 }
 nav#menu a:hover{
 	color:#ffffff;
-	font-size: 20.25pt;
+	font-size: 23.25pt;
 }
