@@ -77,11 +77,7 @@ nav#menu h5{
 	display:none;
 }
 nav#menu a{
-<<<<<<< HEAD
- 	color: white;	
-=======
  	color:white;	
->>>>>>> d0942a939e7077749786b33d9baad5af8c12a69f
  	text-decoration:none;
  	font-family:monospace;
 }
