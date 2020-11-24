@@ -62,22 +62,23 @@ nav#menu ul{
 }
 nav#menu li{
 	display:inline-block;
-	background-color:#595959;
+	background-color:rgba(10,10,10, 0.4);
 	padding:10px;
 	margin:2px;
 	transition:background-color 1s; 
 	font-size:20pt;
+	font-weight:bold;
 	box-shadow:10px 10px 10px black;
-	border:3px solid #262626;
+	border:3px solid #f1f1f1;
 }
  nav#menu li:hover{
- 	background-color:#606060;
+ 	background-color:rgba(179,179,179, 0.7);
  }
 nav#menu h5{
 	display:none;
 }
 nav#menu a{
- 	color:white;	
+ 	color: white;	
  	text-decoration:none;
  	font-family:monospace;
 }
