@@ -1,6 +1,6 @@
 /*backgrpund configurations*/
 body{
-		/*old background solution*/
+	/*old background solution*/
 	/*background:url(../_imagens/quad.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -16,7 +16,7 @@ body{
 }
 .back-image{
 	background-image:url(../_imagens/qua.jpg);
-	filter: blur(3px);
+	filter: blur(5px);
 	/*-webkit-filter: blur(3px);*/
 	background-position: center;
 	background-repeat: no-repeat;
